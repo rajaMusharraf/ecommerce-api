@@ -1,0 +1,10 @@
+node
+_
+dist/
+coverage/
+modules/
+.env
+.env.local
+src/generated/
+.DS
+Store
